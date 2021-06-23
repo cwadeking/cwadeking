@@ -7,4 +7,4 @@ after I do.
 - 🌱 I’m currently learning more about Python and expanding my horizons to include Django and Flask.
 - 💞️ I’m looking to collaborate on any projects that make a difference in this world.  Not just profitability and solving business problems, but something that will make impacts
 on individuals and how they live their lives.
-- 📫 How to reach me is thorugh <a><link src= "https://www.linkedin.com/in/charles-wade-king/">LinkedIn</a>
+- 📫 How to reach me is thorugh <a href= "https://www.linkedin.com/in/charles-wade-king/">LinkedIn</a>
